@@ -38,9 +38,6 @@ The dataset consists of the following key attributes:
 5. **Revenue by Age Group**  
    - Bar chart showcasing revenue segmented by age group, helping to identify which age demographics contribute most to overall revenue.
 
-6. **Geographic Demand**  
-   - Map chart visualizing units sold by country, pinpointing regions with the highest demand for products.
-
 
 ## How to Use the Dashboard
 1. Clone or download the repository.
