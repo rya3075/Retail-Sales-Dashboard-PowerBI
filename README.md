@@ -33,7 +33,7 @@ The dataset consists of the following key attributes:
    - Bar chart showing revenue across different product categories, highlighting which categories drive the highest sales.
 
 4. **Product Category Analysis**  
-   - Bar chart comparing product categories by quantity sold, revealing the volume of sales for each category.
+   - Donut chart comparing product categories by quantity sold, revealing the volume of sales for each category.
 
 5. **Revenue by Age Group**  
    - Bar chart showcasing revenue segmented by age group, helping to identify which age demographics contribute most to overall revenue.
