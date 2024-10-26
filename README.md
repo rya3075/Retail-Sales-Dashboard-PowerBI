@@ -22,11 +22,25 @@ The dataset consists of the following key attributes:
 - **Total Amount**: Total transaction value.
 
 ## Key Features of the Dashboard
-1. **Sales Trend Analysis**: Line chart visualizing monthly revenue for 2011.
-2. **Top Product Categories**: Bar chart displaying the top 3 product categories based on revenue.
-3. **Customer Insights**: Column chart representing the top 10 customers by revenue.
-4. **Product Performance Overview**: KPI cards highlighting total revenue, total transactions, and average order value.
-5. **Geographic Demand**: Map visualization showing units sold by country.
+
+1. **Monthly Sales Trend Analysis**  
+   - Line chart displaying monthly revenue trends for a clear view of sales performance over time.
+
+2. **Revenue by Gender**  
+   - Pie chart illustrating revenue contributions segmented by gender, providing insights into gender-based purchasing patterns.
+
+3. **Revenue by Product Category**  
+   - Bar chart showing revenue across different product categories, highlighting which categories drive the highest sales.
+
+4. **Product Category Analysis**  
+   - Bar chart comparing product categories by quantity sold, revealing the volume of sales for each category.
+
+5. **Revenue by Age Group**  
+   - Bar chart showcasing revenue segmented by age group, helping to identify which age demographics contribute most to overall revenue.
+
+6. **Geographic Demand**  
+   - Map chart visualizing units sold by country, pinpointing regions with the highest demand for products.
+
 
 ## How to Use the Dashboard
 1. Clone or download the repository.
